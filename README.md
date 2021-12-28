@@ -156,8 +156,8 @@
 	<a href="https://www.youtube.com/channel/UCPzyLn9noGxUjkeGJwqfkUw"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
-<p align ="center"><img src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true"/></p>
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<p align ="center"><img src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="290px"/></p>
+
 <!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
 
 
