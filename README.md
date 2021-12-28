@@ -31,6 +31,7 @@
 
 <a href="https://www.linkedin.com/in/chetan-kumar-sinha-1701321b3/"><img src="https://img.shields.io/badge/-Chetan%20Kumar%20Sinha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:chetansinha1404@gamil.com"><img src="https://img.shields.io/badge/-chetansinha1404@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="tel:9547794299"><img src="https://img.shields.io/badge/-9547794299-D14836?style=flat-square&logo=Phone&logoColor=green"/></a>
 
 
 
