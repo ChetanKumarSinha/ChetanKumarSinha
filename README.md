@@ -5,7 +5,8 @@
 <hr/>
 <h4 align="center">I am Currently An Third yearite pursuing Bachelor's Degree in Computer Science and Engineering From Kiit University . <br>I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>Ready To grab new opportunities and contribute to open source realistic project's.</h4>
 <br>
-![](https://visitor-badge.glitch.me/badge?page_id=ChetanKumarSinha.ChetanKumarSinha)
+<p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=ChetanKumarSinha.ChetanKumarSinha" alt="ChetanKumarSinha" /></p>
+
 
 ## 🔥 Streak Stats
 
